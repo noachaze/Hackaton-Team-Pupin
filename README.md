@@ -22,3 +22,4 @@ Resampling:
 
 Model Selection:
 --> Comparer modèles de classification
+--> Choisir hyperparamètres
